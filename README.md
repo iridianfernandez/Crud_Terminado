@@ -3,6 +3,9 @@
 Guardar los dos programas en una misma carpeta y ejecutar "tabla_colores.py" una vez instaladas las bibliotecas correspondientes (qt5,mysql,phpmyadmin).
 
 
+para ejecutar los métodos desde los botones es necesario dar click en el "id" de la persona que se desee saber la información
+
+
 Instalar en la Rasp:
 
 	-qt5: https://wiki.qt.io/Raspberry_Pi_Beginners_Guide
