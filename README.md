@@ -1,10 +1,13 @@
 # Crud_Terminado
 
+Guardar los dos programas en una misma carpeta y ejecutar "tabla_colores.py" una vez instaladas las bibliotecas correspondientes (qt5,mysql,phpmyadmin).
+
+
 Instalar en la Rasp:
 
 	-qt5: https://wiki.qt.io/Raspberry_Pi_Beginners_Guide
 	-Mysql: https://www.luisllamas.es/como-instalar-mysql-en-raspberry-pi/
-	- Opcional: phpmyAdmin https://www.luisllamas.es/como-instalar-phpmyadmin-en-raspberry-pi/
+	-Opcional: phpmyAdmin https://www.luisllamas.es/como-instalar-phpmyadmin-en-raspberry-pi/
 
 CREAR BASE DE DATOS EN LA RAPSBERRY UTILIZANDO  RASPBERRY:
 
